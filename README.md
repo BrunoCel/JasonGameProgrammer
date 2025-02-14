@@ -1,2 +1,2 @@
 # JasonGameProgrammer
-plataform game made to lear using unity
+platform game made to learn how to use Unity
